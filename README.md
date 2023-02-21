@@ -1,3 +1,3 @@
 # Emotion-Detection-on-IEMOCAP
 
-good model
+A emotion detection model evaluation on IEMOCAP dataset
